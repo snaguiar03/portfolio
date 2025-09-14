@@ -1,5 +1,3 @@
-### Portfolio
-
 ## Project 1: How to find π?
 
 The following project utilizes a Monte Carlo simulation, using varying levels of precision and graphically depicting random points generated within a unit square and differentiating between points that are inside and outside of the unit circle
